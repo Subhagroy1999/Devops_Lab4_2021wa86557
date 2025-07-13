@@ -13,7 +13,7 @@ public class App {
 
         System.out.println("Hello from GitHub, Maven, and Jenkins!");
         System.out.println("Build triggered at: " + LocalDateTime.now());
-        system.out.println("This is an update to the source code!");
+        System.out.println("This is an update to the source code!");
     }
 
 }
